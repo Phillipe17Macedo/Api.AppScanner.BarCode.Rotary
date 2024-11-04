@@ -1,0 +1,17 @@
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\bin\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.deps.json
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\bin\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.runtimeconfig.json
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\bin\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\bin\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.pdb
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\bin\Release\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\bin\Release\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.pdb
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.csproj.AssemblyReference.cache
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.AssemblyInfoInputs.cache
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.AssemblyInfo.cs
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.csproj.CoreCompileInputs.cache
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppS.EF055936.Up2Date
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\refint\Api.AppScanner.BarCode.Rotary.EF.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.pdb
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\Api.AppScanner.BarCode.Rotary.EF.genruntimeconfig.cache
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.EF\obj\Release\net8.0\ref\Api.AppScanner.BarCode.Rotary.EF.dll

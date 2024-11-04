@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "Api.AppScanner.BarCode.Rotary.Controllers.CodigoBarrasController",
+    "Method": "BuscarCadastrosScannerBarCode",
+    "RelativePath": "api/v1/CodigoBarras/BuscarCadastrosScannerBarCode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.AppScanner.BarCode.Rotary.Controllers.CodigoBarrasController",
+    "Method": "CadastrarScannerBarCode",
+    "RelativePath": "api/v1/CodigoBarras/CadastrarScannerBarCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigoBarras",
+        "Type": "Api.AppScanner.BarCode.Rotary.COMMON.Models.CodigoBarrasModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.AppScanner.BarCode.Rotary.Controllers.CodigoBarrasController",
+    "Method": "EditarCadastroScannerBarCode",
+    "RelativePath": "api/v1/CodigoBarras/EditarCadastroScannerBarCode/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "scanner",
+        "Type": "Api.AppScanner.BarCode.Rotary.COMMON.Models.CodigoBarrasModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.AppScanner.BarCode.Rotary.Controllers.CodigoBarrasController",
+    "Method": "RemoverCadastroScannerBarCode",
+    "RelativePath": "api/v1/CodigoBarras/RemoverCadastroScannerBarCode/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

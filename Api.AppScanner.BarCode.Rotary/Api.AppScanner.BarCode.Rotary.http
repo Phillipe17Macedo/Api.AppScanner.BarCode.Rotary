@@ -1,0 +1,6 @@
+@Api.AppScanner.BarCode.Rotary_HostAddress = http://localhost:5071
+
+GET {{Api.AppScanner.BarCode.Rotary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.AppScanner.BarCode.Rotary.props" />
+</Project>

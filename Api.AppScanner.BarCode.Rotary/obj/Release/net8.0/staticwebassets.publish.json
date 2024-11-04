@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h6wdweyXv0P6w/0RG6BEOkRbG4dNsDAIcvZKCEAIoc0=",
+  "Source": "Api.AppScanner.BarCode.Rotary",
+  "BasePath": "_content/Api.AppScanner.BarCode.Rotary",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

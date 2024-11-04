@@ -1,0 +1,11 @@
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\bin\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.deps.json
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\bin\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\bin\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.pdb
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.AssemblyInfoInputs.cache
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.AssemblyInfo.cs
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\refint\Api.AppScanner.BarCode.Rotary.COMMON.dll
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\Api.AppScanner.BarCode.Rotary.COMMON.pdb
+C:\Users\phsto\source\repos\Api.AppScanner.BarCode.Rotary\Api.AppScanner.BarCode.Rotary.COMMON\obj\Debug\net8.0\ref\Api.AppScanner.BarCode.Rotary.COMMON.dll
